@@ -3,5 +3,14 @@ p{
 }
 
 span {
+	
+    color:green;
+	Font-size:20px;
+	
+}	
+
+span { 
     color:blue;
+	font-family: Cursive;
+	font-size:30px;
 }	
